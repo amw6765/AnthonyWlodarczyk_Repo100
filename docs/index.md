@@ -1,4 +1,4 @@
-<head><title>AMW Website</title>
+AMW Website
 # Hello World, This is Anthony!
 # More Will Be Coming Soon
 ## About this site
