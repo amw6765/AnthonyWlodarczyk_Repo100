@@ -1,6 +1,6 @@
-# This is Anthony!
-# This site contains my digital portfolio and resume!
-## About this site
-.[Portfolio for Digital Work](portfolio.md)
+# Welcome to AllAboutAnthony!
+# Here you will find my digital portfolio and resume!
+## Site Directory
+[Portfolio for Digital Work](portfolio.md)
 
 
