@@ -4,5 +4,6 @@
 ## **Site Directory**
 # [Digital Portfolio](portfolio.md)
 # [Resume](resume.md)
-
+# [FAQ](faq.md)
+# [Contacts](contacts.md)
 
