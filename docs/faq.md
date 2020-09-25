@@ -1,1 +1,1 @@
-# Here arer some FAQ's about me!
+# Here are some FAQ's about me!
