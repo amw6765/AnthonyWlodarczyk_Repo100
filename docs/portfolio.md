@@ -13,3 +13,5 @@ I made this logo for my group of friends that I make music with (A.K.A Music Col
 ## Logo for Dead Sound Studios
 <img src="images/LOGOFORSTUDIOcopy.jpg" width="250"/>
 The final picture that I am showcasing on this Digital Portfolio is my personal logo for my Music Label. This logo is most important to me and it represents me and all of my music projects. I also created this project on Photoshop, I used the same techniques from my previous logo to create this one. However, the original dimensions of this image were used to print out a large canvas print that is still hung up in my recording studio today!
+
+# [Home](index.md)
