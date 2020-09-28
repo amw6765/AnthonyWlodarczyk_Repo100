@@ -6,7 +6,7 @@ _ "I am a currently enrolled as a second semester sophomore Digital Media, Arts,
 ## Where did you first find interest in the digital arts?
 - "I first began working with the digital arts when I was 13 years old. I just had recieved my first MacBook and I had a friend that was into editing and efx in Adobe After Efeects. Soon I began wortking with him creating and making Call of Duty edits on YouTube. After a while I began working with Cinema 4D and Adobe Photoshop."
 
-## What is my favorite software to use?
+## What is your favorite software to use?
 - "My favorite go-to software would be Adobe Photoshop. I love the tools and functionality of the application. For the specific type of work that i enjoy doing best, Photoshop beautifully fits its needs."
 
 ## What is your dream job?
