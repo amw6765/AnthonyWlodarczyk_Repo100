@@ -7,9 +7,9 @@
 
 ## Education:
 Pennsylvania State Universtity, The Behrend College - Expected December, 2022
-B.S in. Digital Media, Arts, and Technology
-GPA: 3.688
-High School: McDowell High School, Erie, PA - Class of 2018
+  - B.S in. Digital Media, Arts, and Technology
+  - GPA: 3.688
+  - High School: McDowell High School, Erie, PA - Class of 2018
 
 
 ## Work Experiance:
