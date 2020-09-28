@@ -20,3 +20,6 @@ High School: McDowell High School, Erie, PA - Class of 2018
   - COMM270: multimedia (working with html, adobe photoshop, adobe illustrator)
   
   - ART168: digital media (working with Adobe Premiere, Adobe After Effects, Google Cardboard)
+
+
+[Home](index.md)
