@@ -22,4 +22,4 @@ High School: McDowell High School, Erie, PA - Class of 2018
   - ART168: digital media (working with Adobe Premiere, Adobe After Effects, Google Cardboard)
 
 
-[Home](index.md)
+# [Home](index.md)
