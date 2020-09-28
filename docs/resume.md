@@ -2,7 +2,7 @@
 [amw6765@psu.edu](mailto:amw6565@psu.edu)
 
 ## Objective:
-  - Showcase the skills and eductaion that I acquired and will contiune to expand upon in the field of Digital Media, Arts, and Technology.  
+  - Showcase the skills and education that I acquired and will continue to expand upon in the field of Digital Media, Arts, and Technology.  
 
 
 ## Education:
