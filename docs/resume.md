@@ -1,4 +1,4 @@
-# Anthony Wlodarczyk
+# Anthony Wlodarczyk Resume
 [amw6765@psu.edu](mailto:amw6565@psu.edu)
 
 ## Objective:
